@@ -1,0 +1,151 @@
+fecha,descripcion,tipo,monto,categoria,referencia
+2024-05-05,Salario demostración,ingreso,850000.00,Salario,S-202405
+2024-05-08,Supermercado,gasto,80238.00,Alimentación,Su-202405
+2024-05-11,Alquiler,gasto,237912.00,Vivienda,Al-202405
+2024-05-18,Transporte,gasto,29204.00,Transporte,Tr-202405
+2024-05-25,Cafetería,gasto,17253.00,Alimentación,Ca-202405
+2024-06-05,Salario demostración,ingreso,850000.00,Salario,S-202406
+2024-06-08,Supermercado,gasto,77006.00,Alimentación,Su-202406
+2024-06-11,Alquiler,gasto,238828.00,Vivienda,Al-202406
+2024-06-18,Transporte,gasto,30143.00,Transporte,Tr-202406
+2024-06-25,Cafetería,gasto,15839.00,Alimentación,Ca-202406
+2024-07-05,Salario demostración,ingreso,850000.00,Salario,S-202407
+2024-07-08,Supermercado,gasto,80543.00,Alimentación,Su-202407
+2024-07-11,Alquiler,gasto,241467.00,Vivienda,Al-202407
+2024-07-18,Transporte,gasto,29712.00,Transporte,Tr-202407
+2024-07-25,Cafetería,gasto,19837.00,Alimentación,Ca-202407
+2024-08-05,Salario demostración,ingreso,850000.00,Salario,S-202408
+2024-08-08,Supermercado,gasto,78456.00,Alimentación,Su-202408
+2024-08-11,Alquiler,gasto,237260.00,Vivienda,Al-202408
+2024-08-18,Transporte,gasto,29244.00,Transporte,Tr-202408
+2024-08-25,Cafetería,gasto,15767.00,Alimentación,Ca-202408
+2024-09-05,Salario demostración,ingreso,850000.00,Salario,S-202409
+2024-09-08,Supermercado,gasto,76791.00,Alimentación,Su-202409
+2024-09-11,Alquiler,gasto,238905.00,Vivienda,Al-202409
+2024-09-18,Transporte,gasto,33139.00,Transporte,Tr-202409
+2024-09-25,Cafetería,gasto,19931.00,Alimentación,Ca-202409
+2024-10-05,Salario demostración,ingreso,850000.00,Salario,S-202410
+2024-10-08,Supermercado,gasto,75217.00,Alimentación,Su-202410
+2024-10-11,Alquiler,gasto,241597.00,Vivienda,Al-202410
+2024-10-18,Transporte,gasto,30628.00,Transporte,Tr-202410
+2024-10-25,Cafetería,gasto,20865.00,Alimentación,Ca-202410
+2024-11-05,Salario demostración,ingreso,850000.00,Salario,S-202411
+2024-11-08,Supermercado,gasto,80323.00,Alimentación,Su-202411
+2024-11-11,Alquiler,gasto,242745.00,Vivienda,Al-202411
+2024-11-18,Transporte,gasto,33464.00,Transporte,Tr-202411
+2024-11-25,Cafetería,gasto,18436.00,Alimentación,Ca-202411
+2024-12-05,Salario demostración,ingreso,850000.00,Salario,S-202412
+2024-12-08,Supermercado,gasto,76805.00,Alimentación,Su-202412
+2024-12-11,Alquiler,gasto,240679.00,Vivienda,Al-202412
+2024-12-18,Transporte,gasto,33827.00,Transporte,Tr-202412
+2024-12-25,Cafetería,gasto,17278.00,Alimentación,Ca-202412
+2025-01-05,Salario demostración,ingreso,850000.00,Salario,S-202501
+2025-01-08,Supermercado,gasto,75053.00,Alimentación,Su-202501
+2025-01-11,Alquiler,gasto,238307.00,Vivienda,Al-202501
+2025-01-18,Transporte,gasto,34719.00,Transporte,Tr-202501
+2025-01-25,Cafetería,gasto,18462.00,Alimentación,Ca-202501
+2025-02-05,Salario demostración,ingreso,850000.00,Salario,S-202502
+2025-02-08,Supermercado,gasto,77787.00,Alimentación,Su-202502
+2025-02-11,Alquiler,gasto,239276.00,Vivienda,Al-202502
+2025-02-18,Transporte,gasto,30273.00,Transporte,Tr-202502
+2025-02-25,Cafetería,gasto,16763.00,Alimentación,Ca-202502
+2025-03-05,Salario demostración,ingreso,850000.00,Salario,S-202503
+2025-03-08,Supermercado,gasto,77757.00,Alimentación,Su-202503
+2025-03-11,Alquiler,gasto,237837.00,Vivienda,Al-202503
+2025-03-18,Transporte,gasto,29759.00,Transporte,Tr-202503
+2025-03-25,Cafetería,gasto,18112.00,Alimentación,Ca-202503
+2025-04-05,Salario demostración,ingreso,850000.00,Salario,S-202504
+2025-04-08,Supermercado,gasto,75792.00,Alimentación,Su-202504
+2025-04-11,Alquiler,gasto,239940.00,Vivienda,Al-202504
+2025-04-18,Transporte,gasto,31817.00,Transporte,Tr-202504
+2025-04-25,Cafetería,gasto,19945.00,Alimentación,Ca-202504
+2025-05-05,Salario demostración,ingreso,850000.00,Salario,S-202505
+2025-05-08,Supermercado,gasto,77166.00,Alimentación,Su-202505
+2025-05-11,Alquiler,gasto,237355.00,Vivienda,Al-202505
+2025-05-18,Transporte,gasto,34977.00,Transporte,Tr-202505
+2025-05-25,Cafetería,gasto,18763.00,Alimentación,Ca-202505
+2025-06-05,Salario demostración,ingreso,850000.00,Salario,S-202506
+2025-06-08,Supermercado,gasto,79392.00,Alimentación,Su-202506
+2025-06-11,Alquiler,gasto,238022.00,Vivienda,Al-202506
+2025-06-18,Transporte,gasto,32100.00,Transporte,Tr-202506
+2025-06-25,Cafetería,gasto,15645.00,Alimentación,Ca-202506
+2025-07-05,Salario demostración,ingreso,850000.00,Salario,S-202507
+2025-07-08,Supermercado,gasto,79522.00,Alimentación,Su-202507
+2025-07-11,Alquiler,gasto,239401.00,Vivienda,Al-202507
+2025-07-18,Transporte,gasto,34149.00,Transporte,Tr-202507
+2025-07-25,Cafetería,gasto,20066.00,Alimentación,Ca-202507
+2025-08-05,Salario demostración,ingreso,850000.00,Salario,S-202508
+2025-08-08,Supermercado,gasto,77962.00,Alimentación,Su-202508
+2025-08-11,Alquiler,gasto,241729.00,Vivienda,Al-202508
+2025-08-18,Transporte,gasto,30575.00,Transporte,Tr-202508
+2025-08-25,Cafetería,gasto,20771.00,Alimentación,Ca-202508
+2025-09-05,Salario demostración,ingreso,850000.00,Salario,S-202509
+2025-09-08,Supermercado,gasto,75569.00,Alimentación,Su-202509
+2025-09-11,Alquiler,gasto,237375.00,Vivienda,Al-202509
+2025-09-18,Transporte,gasto,34417.00,Transporte,Tr-202509
+2025-09-25,Cafetería,gasto,16866.00,Alimentación,Ca-202509
+2025-10-05,Salario demostración,ingreso,850000.00,Salario,S-202510
+2025-10-08,Supermercado,gasto,77370.00,Alimentación,Su-202510
+2025-10-11,Alquiler,gasto,237653.00,Vivienda,Al-202510
+2025-10-18,Transporte,gasto,30907.00,Transporte,Tr-202510
+2025-10-25,Cafetería,gasto,15827.00,Alimentación,Ca-202510
+2025-11-05,Salario demostración,ingreso,850000.00,Salario,S-202511
+2025-11-08,Supermercado,gasto,78113.00,Alimentación,Su-202511
+2025-11-11,Alquiler,gasto,239277.00,Vivienda,Al-202511
+2025-11-18,Transporte,gasto,32714.00,Transporte,Tr-202511
+2025-11-25,Cafetería,gasto,20207.00,Alimentación,Ca-202511
+2025-12-05,Salario demostración,ingreso,850000.00,Salario,S-202512
+2025-12-08,Supermercado,gasto,77988.00,Alimentación,Su-202512
+2025-12-11,Alquiler,gasto,238332.00,Vivienda,Al-202512
+2025-12-18,Transporte,gasto,32032.00,Transporte,Tr-202512
+2025-12-25,Cafetería,gasto,17910.00,Alimentación,Ca-202512
+2026-01-05,Salario demostración,ingreso,850000.00,Salario,S-202601
+2026-01-08,Supermercado,gasto,76716.00,Alimentación,Su-202601
+2026-01-11,Alquiler,gasto,242490.00,Vivienda,Al-202601
+2026-01-18,Transporte,gasto,31187.00,Transporte,Tr-202601
+2026-01-25,Cafetería,gasto,20749.00,Alimentación,Ca-202601
+2026-02-05,Salario demostración,ingreso,850000.00,Salario,S-202602
+2026-02-08,Supermercado,gasto,80599.00,Alimentación,Su-202602
+2026-02-11,Alquiler,gasto,242308.00,Vivienda,Al-202602
+2026-02-18,Transporte,gasto,29584.00,Transporte,Tr-202602
+2026-02-25,Cafetería,gasto,19990.00,Alimentación,Ca-202602
+2026-03-05,Salario demostración,ingreso,850000.00,Salario,S-202603
+2026-03-08,Supermercado,gasto,80201.00,Alimentación,Su-202603
+2026-03-11,Alquiler,gasto,238401.00,Vivienda,Al-202603
+2026-03-18,Transporte,gasto,33375.00,Transporte,Tr-202603
+2026-03-25,Cafetería,gasto,20973.00,Alimentación,Ca-202603
+2026-04-05,Salario demostración,ingreso,850000.00,Salario,S-202604
+2026-04-08,Supermercado,gasto,77005.00,Alimentación,Su-202604
+2026-04-11,Alquiler,gasto,238338.00,Vivienda,Al-202604
+2026-04-18,Transporte,gasto,32786.00,Transporte,Tr-202604
+2026-04-25,Cafetería,gasto,18108.00,Alimentación,Ca-202604
+2026-05-05,Salario demostración,ingreso,850000.00,Salario,S-202605
+2026-05-08,Supermercado,gasto,77211.00,Alimentación,Su-202605
+2026-05-11,Alquiler,gasto,242242.00,Vivienda,Al-202605
+2026-05-18,Transporte,gasto,34637.00,Transporte,Tr-202605
+2026-05-25,Cafetería,gasto,19562.00,Alimentación,Ca-202605
+2026-06-05,Salario demostración,ingreso,850000.00,Salario,S-202606
+2026-06-08,Supermercado,gasto,76799.00,Alimentación,Su-202606
+2026-06-11,Alquiler,gasto,242608.00,Vivienda,Al-202606
+2026-06-18,Transporte,gasto,31656.00,Transporte,Tr-202606
+2026-06-25,Cafetería,gasto,15458.00,Alimentación,Ca-202606
+2026-07-05,Salario demostración,ingreso,850000.00,Salario,S-202607
+2026-07-08,Supermercado,gasto,76876.00,Alimentación,Su-202607
+2026-07-11,Alquiler,gasto,237262.00,Vivienda,Al-202607
+2026-07-18,Transporte,gasto,31584.00,Transporte,Tr-202607
+2026-07-25,Cafetería,gasto,18286.00,Alimentación,Ca-202607
+2026-08-05,Salario demostración,ingreso,850000.00,Salario,S-202608
+2026-08-08,Supermercado,gasto,220000.00,Alimentación,Su-202608
+2026-08-11,Alquiler,gasto,237542.00,Vivienda,Al-202608
+2026-08-18,Transporte,gasto,30728.00,Transporte,Tr-202608
+2026-08-25,Cafetería,gasto,19646.00,Alimentación,Ca-202608
+2026-09-05,Salario demostración,ingreso,850000.00,Salario,S-202609
+2026-09-08,Supermercado,gasto,80881.00,Alimentación,Su-202609
+2026-09-11,Alquiler,gasto,239577.00,Vivienda,Al-202609
+2026-09-18,Transporte,gasto,30741.00,Transporte,Tr-202609
+2026-09-25,Cafetería,gasto,20369.00,Alimentación,Ca-202609
+2026-10-05,Salario demostración,ingreso,850000.00,Salario,S-202610
+2026-10-08,Supermercado,gasto,79089.00,Alimentación,Su-202610
+2026-10-11,Alquiler,gasto,240241.00,Vivienda,Al-202610
+2026-10-18,Transporte,gasto,34266.00,Transporte,Tr-202610
+2026-10-25,Cafetería,gasto,18758.00,Alimentación,Ca-202610
